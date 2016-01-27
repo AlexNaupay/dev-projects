@@ -1,0 +1,39 @@
+h1 {
+    font-size: 60px;
+    font-weight: 700;
+    text-transform: uppercase;
+
+}
+
+h2{
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+p{
+    color: #636363;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ol li{
+    counter-increment: counter-cat;
+}
+
+ol li span{
+    display: block;
+    margin-top: 10px;
+}
+
+ol li span:before{
+    content: counter(counter-cat);
+    display: inline;
+    margin-right: 5px;
+}
+

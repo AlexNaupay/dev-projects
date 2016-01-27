@@ -1,0 +1,41 @@
+header{
+    top: 0;
+    opacity: 0.8;
+}
+
+header, footer{
+    background-color: #282828;
+    color: #c3c1c1;
+    padding: 20px 0;
+    position: fixed;
+    width: 100%;
+}
+
+header img{
+    display: inline-block;
+    width: 350px;
+}
+
+.layout_a{
+    color: #c3c1c1;;
+}
+
+footer {
+
+    bottom: 0;
+}
+
+img {
+    width: 100%;
+}
+
+.list-cats li img{
+    max-height: 235px;
+}
+
+.list-cats li:hover{
+    opacity: 0.8;
+}
+
+
+

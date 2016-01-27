@@ -1,0 +1,17 @@
+/* Elemento modificador*/
+.home{
+    background: dodgerblue url('../assets/img/bg.jpg') no-repeat center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+.full-height{
+    box-sizing: border-box;
+    height: 100%;
+    padding-top: 15%;
+}
+
+
