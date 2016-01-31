@@ -1,0 +1,30 @@
+
+# Maven
+log/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+.metadata/
+RemoteSystemsTempFiles/
+Servers/
+
+/**/target/
+ZooOff.eml
+/**/.settings/
+/**/*.project
+/**/*.classpath
+/**/*.idea/
+/**/*.svn/
+out/
+# Intellij
+*.iml
+*.iws
+ZooOff.userlibraries
+# Mac
+.DS_Store
